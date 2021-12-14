@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="My_1_Programa.cpp" />
+    <ClCompile Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="My_1_Programa.rc" />
